@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Teyxaa
+- 👀 I’m interested in Fitness and Programming
+- 🌱 I’m currently learning CS50
+- 📫 How to reach me: Twitter @NxRaXI
